@@ -12,6 +12,4 @@ public class PetType {
 		this.name = name;
 	}
 	
-	
-
 }
